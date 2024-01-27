@@ -1,0 +1,47 @@
+html {
+    background-color: #F4F6FF;
+}
+
+#blue_at_the_top {
+    height: 70px;
+    width: 9999999999999999px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #127681;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    color: #10375C;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+ul {
+    list-style: symbols();
+}
+
+li {
+    color: #10375C;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    color: #F3C623;
+    font-weight: 900;
+}
+
+iframe {
+    width: 700px;
+    height: 700px;
+}
+
+.game_thumbnail {
+    width: 500px;
+    height: 200px;
+}
+
+/* spalvos iš https://colorhunt.co/palette/f4f6fff3c62312768110375c */
+/* colorhunt.co */
